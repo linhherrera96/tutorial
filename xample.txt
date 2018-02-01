@@ -1,3 +1,0 @@
-Đến cả con khỉ cũng hiểu được lệnh git :))
-
-add: Đăng ký thay đổi trong index
